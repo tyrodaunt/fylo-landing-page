@@ -31,7 +31,8 @@
 
 /* navigation tab */
 
- .navigation {
+
+ .navigation {
     width:1485px ;
  }
 
@@ -85,7 +86,8 @@
 
 /*  header field*/
 
- .header {
+
+ .header {
  
  }
 
@@ -530,8 +532,8 @@
     }
 
     .newsletter #button {
-        margin-top: 50px;
-        margin-left: -710px;
+        margin-top: 0px;
+        margin-left: 50px;
         height: 40px;
         width: 300px;
     }
